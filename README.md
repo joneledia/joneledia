@@ -9,3 +9,5 @@ Currently working on
 - More projects to come!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joneledia&count_private=true&show_icons=true&theme=gruvbox)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12184270332)
